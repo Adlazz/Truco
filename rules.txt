@@ -1,0 +1,9 @@
+1- se selecciona un jugador al azar, que sea MANO el primero en jugar.
+2- se reparten las cartas
+3- en cualquier momento del juego, cualquiera de los jugadores puede cantar TRUCO, eleva el valor del tanto de 1 a 2.
+4- Puede aceptar, o cantar RETRUCO, eleva el valor del tanto de 2 a 3.
+5- Puede aceptar, o cantar RETRUCO, eleva el valor del tanto de 3 a 4.
+6- cualquiera que no acepte TRUCO, RETRUCO o VALE 4.
+7- se puede cantar ENVIDO, REAL ENVIDO o FALTA ENVIDO antes de jugar su primera cartas
+    envido querido 2 puntos, no querido 1 punto
+8- se puede cantar FLOR, anula envido.

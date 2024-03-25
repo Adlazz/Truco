@@ -1,6 +1,6 @@
 import random
 
-class MazoDeCartas:
+class Truco:
     def __init__(self):
         self.lista_numeros = ['1', '2', '3', '4', '5', '6', '7', '10', '11', '12']
         self.lista_palos = ['Espada', 'Basto', 'Copa', 'Oro']
@@ -107,7 +107,7 @@ class MazoDeCartas:
             return None
 
 # Crear un objeto mazo de cartas
-mazo = MazoDeCartas()
+mazo = Truco()
 
 # Repartir cartas intercaladas entre jugador 1 y la computadora
 jugador1_cartas, computadora_cartas = mazo.repartir_cartas()
